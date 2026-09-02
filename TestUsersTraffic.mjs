@@ -1,6 +1,6 @@
 // capacity-test.mjs
-import { fetch } from 'node:http';
-import { performance } from 'perf_hooks';
+//import { fetch } from 'node:http';
+import { performance } from 'node:perf_hooks';
 
 const CONFIG = {
   url: 'http://localhost:3000/api/login',
